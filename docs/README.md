@@ -20,8 +20,18 @@ docs/
 ├── index.html
 └── README.md
 ```
+Como Executar o Projeto:
+
+Clone o repositório:
+git clone https://github.com/seuusuario/dio-lab-open-source.git
+
+Acesse a pasta do projeto:
+cd dio-lab-open-source/docs
+
+Abra o arquivo index.html no seu navegador.
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
